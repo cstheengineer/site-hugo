@@ -1,0 +1,4 @@
+﻿baseURL : "http://web.tecnico.ulisboa.pt/ist1xxxxxx/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "meghna"

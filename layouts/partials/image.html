@@ -1,0 +1,5 @@
+﻿{{/* Fallback partial */}}
+{{- $src := .Src | default "" -}}
+{{- if $src -}}
+<img src="{{ $src | relURL }}" alt="{{ .Alt | default "" }}" class="{{ .Class | default "" }}">
+{{- end -}}

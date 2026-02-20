@@ -1,0 +1,5 @@
+﻿{{/* Fallback partial used by Meghna */}}
+{{- $src := .Src | default "" -}}
+{{- if $src -}}
+style="background-image:url('{{ $src | relURL }}');"
+{{- end -}}
