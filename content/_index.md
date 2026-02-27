@@ -1,6 +1,5 @@
 ---
-title: "home"
-type: "home"
+title: "Home"
 ---
 
-Welcome!
+Bem-vindo ao meu site.
