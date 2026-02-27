@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Smart Mobility</title>
-    <link>//localhost:1313/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on Smart Mobility</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Feb 2026 15:45:36 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primeiro Post - Site Online!</title>
-      <link>//localhost:1313/blog/post1/</link>
+      <link>/blog/post1/</link>
       <pubDate>Fri, 27 Feb 2026 15:45:36 +0000</pubDate>
-      <guid>//localhost:1313/blog/post1/</guid>
+      <guid>/blog/post1/</guid>
       <description>&lt;p&gt;Site está oficialmente online!&lt;/p&gt;</description>
     </item>
   </channel>

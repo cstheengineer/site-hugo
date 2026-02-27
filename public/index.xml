@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome! on Smart Mobility</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Welcome! on Smart Mobility</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Feb 2026 15:45:36 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primeiro Post - Site Online!</title>
-      <link>//localhost:1313/blog/post1/</link>
+      <link>/blog/post1/</link>
       <pubDate>Fri, 27 Feb 2026 15:45:36 +0000</pubDate>
-      <guid>//localhost:1313/blog/post1/</guid>
+      <guid>/blog/post1/</guid>
       <description>&lt;p&gt;Site está oficialmente online!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;You can contact us via &lt;a href=&#34;mailto:tomas.carita.duarte@tecnico.ulisboa.pt&#34;&gt;email&lt;/a&gt; with sugestions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>//localhost:1313/english/author/john-doe/</link>
+      <link>/english/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/english/author/john-doe/</guid>
+      <guid>/english/author/john-doe/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>//localhost:1313/english/author/mark-dinn/</link>
+      <link>/english/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/english/author/mark-dinn/</guid>
+      <guid>/english/author/mark-dinn/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
   </channel>
