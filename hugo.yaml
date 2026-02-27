@@ -1,4 +1,6 @@
 ﻿baseURL : "http://web.tecnico.ulisboa.pt/ist1110183/"
+relativeURLs: true
+canonifyURLs: true
 languageCode: "en-us"
 title: "Smart Mobility"
 theme: "hugo-bootstrap-theme"

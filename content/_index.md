@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome!"
 ---
 
-Welcome to the future of Smart Mobility!
+In this page you can find out more about the future of Smart Mobility!
