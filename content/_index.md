@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-Bem-vindo ao meu site.
+Welcome to the future of Smart Mobility!
